@@ -43,4 +43,4 @@ Run the agent:
 
 ---
 
-> Note: This is a simple learning example; it does not handle advanced error cases or rate limiting.
+> Note: This is a simple learning example; it does not handle advanced error cases or rate limiting
